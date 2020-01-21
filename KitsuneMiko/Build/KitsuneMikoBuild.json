@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Kitsune Miko Animations",
+"productVersion": "0.1",
+"dataUrl": "KitsuneMikoBuild.data.unityweb",
+"wasmCodeUrl": "KitsuneMikoBuild.wasm.code.unityweb",
+"wasmFrameworkUrl": "KitsuneMikoBuild.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.11f1"
+}
