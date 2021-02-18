@@ -9714,6 +9714,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .masthead .masthead-heading {
+  font-family: "gulim";
   font-size: 2.75rem;
   line-height: 2.75rem;
 }
