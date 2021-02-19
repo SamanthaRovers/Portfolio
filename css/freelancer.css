@@ -40,8 +40,8 @@
   --font-family-sans-serif: ""gulim"", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
-@font-face {src: url("/fonts/gilum.ttf");
-font-family: ""gulim"";}
+@font-face {src: url(/fonts/gilum.ttf);
+font-family: "gulim";}
 
 *,
 *::before,
