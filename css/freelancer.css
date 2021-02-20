@@ -9380,12 +9380,22 @@ button.bg-dark:focus {
   text-decoration: underline;
   text-decoration-color: #13b6bf;
 }
-.map {
-  max-width: 100%;
+
+.WT-OL {
+  max-width: 45%;
+  padding-left: 25px;
 }
 
-ul {
-  list-style: none;
+.video {
+  margin: 0%;
+  padding-left: 0%;
+  padding-right: 0%;
+  padding-bottom: 25px;
+}
+
+
+.map {
+  max-width: 100%;
 }
 
 .SqUL {
